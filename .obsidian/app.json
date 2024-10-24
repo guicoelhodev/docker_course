@@ -2,5 +2,7 @@
   "useMarkdownLinks": true,
   "attachmentFolderPath": "assets",
   "newLinkFormat": "absolute",
-  "vimMode": true
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }
