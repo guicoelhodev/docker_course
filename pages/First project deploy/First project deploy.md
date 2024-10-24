@@ -8,28 +8,23 @@ These are two steps that’s we need to get aware of before to create deployment
 - Containerized apps **might be need a build step**
 - Multiples containers projects **might need to split** across multiples hosts/remote machines
 
+
+![image 2](../../assets/image%202.png)
+
+![image 1](../../assets/image%201.png)
   
-
-![[assets/image 2.png|image 2.png]]
-
-  
-
-![[image 1.png]]
 
   
 
 > [!important]  
 > Follow this step after creating a EC2 instance on AWS  
 
-  
 
-![[assets/image 2 2.png|image 2 2.png]]
-
+![image 2 2](../../assets/image%202%202.png)
   
 
 ## A Quick view about Security Groups
 
-  
 
 `Inbound rules` - Means what’s groups can have access into your EC2 instance.
 

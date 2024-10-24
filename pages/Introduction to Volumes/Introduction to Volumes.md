@@ -1,8 +1,6 @@
-  
 
-![[assets/Untitled 2.png|Untitled 2.png]]
+![Untitled 2](../../assets/Untitled%202.png)
 
-  
 
 **Volumes** are folders on your host machine's hard drive which are mounted (”made available”, mapped) into containers. The difference when we use volumes that is the data inside the volume persists even container shuts down.
 
@@ -58,5 +56,4 @@ The image `feedback-node:volumes` have a workdir as `/app`
 Now add `-v /app/node_modules` to fix that!!
 
   
-
-![[image.png]]
+![image](../../assets/image.png)

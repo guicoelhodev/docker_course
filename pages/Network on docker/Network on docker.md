@@ -1,6 +1,6 @@
-  
 
-![[assets/Untitled 3.png|Untitled 3.png]]
+![Untitled 3](../../assets/Untitled%203.png)
+
 
 When you need to communicate between two or more containers, you need to specify the url for docker
 
@@ -11,7 +11,7 @@ When you need to communicate between two or more containers, you need to specify
 
   
 
-![[assets/Untitled 1 2.png|Untitled 1 2.png]]
+![Untitled 1 2](../../assets/Untitled%201%202.png)
 
   
 

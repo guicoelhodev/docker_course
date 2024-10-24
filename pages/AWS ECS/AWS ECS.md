@@ -1,8 +1,5 @@
-  
-
-![[assets/image 3.png|image 3.png]]
-
-![[assets/image 1 2.png|image 1 2.png]]
+ ![image 3](../../assets/image%203.png) 
+![image 1 2](../../assets/image%201%202.png)
 
   
 

@@ -1,8 +1,9 @@
 {
   "useMarkdownLinks": true,
   "attachmentFolderPath": "assets",
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "vimMode": true,
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "tabSize": 2
 }

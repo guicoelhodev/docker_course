@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3de21a23056ac1c9",
+        "id": "b91413fc68a59fe6",
         "type": "tabs",
         "children": [
           {
-            "id": "d56a23f21068c12f",
+            "id": "4939a1814a03f05b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "subpages/First project deploy/First project deploy.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First project deploy"
-            }
-          },
-          {
-            "id": "e8e6367b85e1d53a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "subpages/Utility containers/Utility containers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Utility containers"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "subpages/Utility containers/Utility containers.md",
+                "file": "pages/Docker notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Utility containers"
+              "title": "Backlinks for Docker notes"
             }
           },
           {
@@ -127,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "subpages/Utility containers/Utility containers.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Utility containers"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -154,13 +139,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "subpages/Utility containers/Utility containers.md"
+                "file": "pages/Docker notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Utility containers"
+              "title": "Outline of Docker notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,42 +164,41 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e8e6367b85e1d53a",
+  "active": "4939a1814a03f05b",
   "lastOpenFiles": [
-    "subpages/Deploying Docker Containers on AWS.md",
+    "pages/Kubernetes/Imperative vs Declarative mode/Imperative vs Declarative mode.md",
+    "assets/readme_view.webp",
+    "pages/Kubernetes/Kubernetes.md",
     "README.md",
-    "README.md",
-    "subpages/Docker compose.md",
-    "subpages/Docker notes.md",
-    "subpages/First project deploy/First project deploy.md",
-    "README",
-    "subpages/AWS ECS/AWS ECS.md",
-    "subpages/Introduction to Volumes/Introduction to Volumes.md",
-    "subpages/Utility containers/Utility containers.md",
-    "subpages/Docker - Core terminal commands.md",
-    "assets/image 5.png",
+    "pages/AWS ECS/AWS ECS.md",
+    "pages/First project deploy/First project deploy.md",
+    "pages/Deploying Docker Containers on AWS.md",
+    "pages/Docker compose.md",
+    "pages/Utility containers/Utility containers.md",
+    "pages/Network on docker/Network on docker.md",
+    "pages/Introduction to Volumes/Introduction to Volumes.md",
+    "pages/Docker - Core terminal commands.md",
+    "pages/Docker notes.md",
+    "pages/Docker - Core concepts/Docker - Core concepts.md",
+    "assets/Untitled.png",
+    "assets/Untitled 1.png",
     "assets/image 4 2.png",
-    "assets/image 3 2.png",
-    "assets/image 2 3.png",
-    "assets/image 1 3.png",
+    "assets/image 5.png",
     "assets/image 4.png",
-    "assets/image 1 2.png",
+    "assets/image 3 2.png",
     "assets/image 3.png",
     "assets/image 2 2.png",
-    "assets/image 1.png",
-    "subpages/Kubernetes/Imperative vs Declarative mode/Imperative vs Declarative mode.md",
-    "subpages/Kubernetes/Kubernetes.md",
-    "subpages/Network on docker/Network on docker.md",
-    "subpages/Docker - Core concepts/Docker - Core concepts.md",
+    "assets/image 2.png",
+    "README",
     "assets",
-    "subpages/Kubernetes/Imperative vs Declarative mode",
-    "subpages/Kubernetes",
-    "subpages/AWS ECS",
-    "subpages/First project deploy",
-    "subpages/Utility containers",
-    "subpages/Network on docker",
-    "subpages/Introduction to Volumes",
-    "subpages/Docker - Core concepts",
+    "pages/Kubernetes/Imperative vs Declarative mode",
+    "pages/Kubernetes",
+    "pages/AWS ECS",
+    "pages/First project deploy",
+    "pages/Utility containers",
+    "pages/Network on docker",
+    "pages/Introduction to Volumes",
+    "pages/Docker - Core concepts",
     "Docker notes.md",
     "Docker compose.md",
     "Docker - Core terminal commands.md",

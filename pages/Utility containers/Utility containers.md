@@ -1,7 +1,5 @@
   
-
-![[assets/Untitled 4.png|Untitled 4.png]]
-
+![Untitled 4](../../assets/Untitled%204.png)
   
 
 ## What can we do with this?

@@ -2,11 +2,7 @@
 
 `Images` are the template/blueprints for `containers`, that contain code + required tools/ runtime
 
-  
-
-![[Untitled.png]]
-
-  
+![Untitled](../../assets/Untitled.png)
 
 - You can add `-it` tag to add interactive terminal
 
