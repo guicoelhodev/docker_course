@@ -1,5 +1,7 @@
 {
   "theme": "obsidian",
   "accentColor": "#4fe0f3",
-  "cssTheme": "Catppuccin"
+  "cssTheme": "Catppuccin",
+  "textFontFamily": "Inter",
+  "interfaceFontFamily": ""
 }

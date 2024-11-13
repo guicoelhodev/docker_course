@@ -1,6 +1,5 @@
 
 ![readme_view ](assets/readme_view.webp)
-
 ## Docker fundamentals
 
 - [Docker notes](pages/Docker%20notes.md)j
@@ -20,3 +19,4 @@
 ## Kubernetes
 
 - [Kubernetes](pages/Kubernetes/Kubernetes.md)
+- [Storage and Data](pages/Kubernetes%20-%20Storage%20&%20Data/Storage%20and%20Data.md)

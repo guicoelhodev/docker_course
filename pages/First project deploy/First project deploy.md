@@ -35,6 +35,10 @@ These are two steps that’s we need to get aware of before to create deployment
 > [!important]  
 > This is a first example showing how to deploy a web project doing all major things by yourself, setup EC2, pushing docker image, manage SSH to connect for this EC2 machine  
 
-  
+ 
 
 In the next chapter, we are going to see other ways to replace a web project, but less manually and more continuous.
+
+dfsd
+
+
