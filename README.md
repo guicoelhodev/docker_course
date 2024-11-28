@@ -2,7 +2,7 @@
 ![readme_view ](assets/readme_view.webp)
 ## Docker fundamentals
 
-- [Docker notes](pages/Docker%20notes.md)j
+- [Docker notes](pages/Docker%20notes.md)
 - [Docker - Core concepts](pages/Docker%20-%20Core%20concepts/Docker%20-%20Core%20concepts.md)
 - [Docker - Core terminal commands](pages/Docker%20-%20Core%20terminal%20commands.md)
 - [Introduction to Volumes](pages/Introduction%20to%20Volumes/Introduction%20to%20Volumes.md)
